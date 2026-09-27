@@ -14,7 +14,7 @@ A high-speed backend API interceptor and browser scraper built specifically for 
 ## 🏆 Why Modash is the Strongest Option
 
 Compared to surface-level scrapers (such as Collabstr or basic DOM extractors), the Modash platform provides richer, verified data points:
-* **Hostinger / Custom Domain Multi-Account Scaling**: Set up multiple free trial accounts using business emails (e.g., Hostinger custom email aliases) to scrape **400 to 500 enriched creators per account run**.
+* **Hostinger / Custom Domain Multi-Account Scaling**: Set up multiple free trial accounts using business emails (e.g., Hostinger custom email aliases) to scrape **400 to 500 enriched creators per work mail created account run in free limits**.
 * **Direct Business Contact Emails**: Extracts public and verified creator emails directly from backend response payloads.
 * **Granular Engagement Metrics**: Captures Engagement Rate (ER), like-to-follower ratios, follower growth markers, and niche tags.
 * **Extreme Accuracy**: Data is ingested straight from Modash's structured API rather than fragile frontend DOM selectors.
